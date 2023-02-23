@@ -1,6 +1,6 @@
 ---
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="480" height="320"/>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="320" height="160"/>
   <div id="badges">
    <img src="https://komarev.com/ghpvc/?username=betepok506&style=flat-square&color=blue" alt=""/>
   </div>
