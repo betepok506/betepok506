@@ -1,6 +1,6 @@
-### Hi there 👋
+---
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="480" height="320"/>
   <div id="badges">
    <img src="https://komarev.com/ghpvc/?username=betepok506&style=flat-square&color=blue" alt=""/>
   </div>
@@ -8,7 +8,11 @@
 
 ---
 ### ⚡ Обо мне :
-- Студент
+- Магистрант 1 курса МГУ им. Н. П. Огарева
+- Начинающий Machine Learning Engineer
+- Имею опыт работы в области CV, NLP, в частности проектирования архитектуры и написания полноценного ML решения 
+- Принимал участие в НИОКР, хакатонах
+- Участник получинала ICPC 2022/2023 
 
 
 ---
@@ -33,27 +37,13 @@
 
 ### :fire: Статистика :
 
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=betepok506&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=betepok506&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betepok506&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betepok506&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 ---
 ### 💥 Примеры персональных проектов:
-- 
+- [Система обнаружения и локализации объектов на спутниковых изображениях с последующим визуализированием](https://github.com/betepok506/aerial_photo_web_interface) (В разработке)
+- [Дипломный проект бакалавриата](https://github.com/betepok506/Analysis-visitors-to-public-spaces)
+- [Учебный проект распознования капчи](https://github.com/betepok506/Captcha_OCR)
 
-<!--
-**betepok506/betepok506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
