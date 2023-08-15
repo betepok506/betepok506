@@ -47,7 +47,7 @@
 - [Генерация фейковых текстов веб-документов по запросу пользователя (Дипломный проект MADE VK)](https://github.com/Volodimirich/MadeFakeDocs)
 - [Библиотека ранжирования текстов документов на основе нейронных сетей](https://github.com/betepok506/RankingMetrics)
 - [Система обнаружения и локализации объектов на спутниковых изображениях с последующим визуализированием](https://github.com/betepok506/aerial-photography-server) (В разработке)
-- [Распознование текстов на изображении](https://github.com/betepok506/ocr)
+- [Распознавание текстов на изображении](https://github.com/betepok506/ocr)
 - [Классификация спортивных событий по изображениям (5 место)](https://github.com/betepok506/cv_contest_made)
 - [Распознования капчи](https://github.com/betepok506/Captcha_OCR)
 - [Дипломный проект бакалавриата](https://github.com/betepok506/Analysis-visitors-to-public-spaces)
